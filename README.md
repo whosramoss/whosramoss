@@ -1,6 +1,3 @@
-<h2 align="center">I'm Gabriel Ramos</h1>
-<h5 align="center">Mobile Developer | Flutter </h3>
-
 <!--
 **whosramos/whosramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 align="center">I'm Gabriel Ramos</h1>
+<h5 align="center">Mobile Developer | Flutter </h3>
 
-### ⚡ Github Report Card:
+### 💻 Github Report:
 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=whosramos&show_icons=true" alt="whosramos" /> </p>
-  
+<div>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=whosramos&show_icons=true" alt="whosramos" /> </p>
+<p align="right"> <img src="https://github.com/whosramos/Javascript-thoughts/blob/master/code3.gif" alt="whosramos" /> </p>
+  </div>
