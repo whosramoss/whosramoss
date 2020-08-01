@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 💻 Github Report:
 
-<div>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=whosramos&show_icons=true" alt="whosramos" /> </p>
-<p align="right"> <img src="https://github.com/whosramos/Javascript-thoughts/blob/master/code3.gif" alt="whosramos" /> </p>
-  </div>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=whosramos&show_icons=true" alt="stats" /> </p>
+<p align="right"> <img src="https://thumbs.gfycat.com/WeightyYearlyDoctorfish-mobile.mp4" alt="gif" /> </p>
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=whosramos" alt="users" /> </p>
