@@ -12,12 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">I'm Gabriel Ramos</h1>
-<h5 align="center">Mobile Developer | Flutter </h3>
+
 
 ### 💻 Github Report:
-
+<p align="right"> 
+  <h2 align="left">I'm Gabriel Ramos</h1>
+  <h5 align="left">Mobile Developer | Flutter </h3> 
+</p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=whosramos&show_icons=true" alt="stats" /> </p>
-<p align="right"> <img src="https://thumbs.gfycat.com/WeightyYearlyDoctorfish-mobile.mp4" alt="gif" /> </p>
-<br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whosramos" alt="users" /> </p>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=whosramos" alt="users" /> </p> -->
