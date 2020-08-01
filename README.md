@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 
 
 ### 💻 Github Report:
-
-<p align="left">  
+<div>
   <h2 align="left">I'm Gabriel Ramos</h1>
   <h5 align="left">Mobile Developer | Flutter </h3> 
+</div>
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=whosramos&show_icons=true" alt="stats" />
-</p>
+</div>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=whosramos" alt="users" /> </p> -->
