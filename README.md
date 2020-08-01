@@ -14,13 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
+I'm Gabriel Ramos | <img src="https://github-readme-stats.vercel.app/api?username=whosramos&show_icons=true" alt="stats" /> | Pretty
 
-<div>
-  <p align="left">I'm Gabriel Ramos</p>
-  <p align="left">Mobile Developer | Flutter </p> 
-</div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=whosramos&show_icons=true" alt="stats" />
-</div>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=whosramos" alt="users" /> </p> -->
