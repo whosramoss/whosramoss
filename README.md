@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">Hi mates 😄 I'm Gabriel Ramos</h1>
-<h3 align="center">I am from Espírito Santo, Brazil. I've been in love with coding, technology and art since ever</h3>
+<h3 align="center">I'm from Espírito Santo, Brazil. I've been in love with coding, technology and art since ever</h3>
 <br />
 <h4 align="center">
-  <p align="center">💻 I am constantly working and learning in the development of Flutter applications</p>
+  <p align="center">💻 I'm constantly working and learning in the development of Flutter applications</p>
   <p align="center">- 💬 I’m currently learning NodeJS, Python and TypeScript as well </p>
 </h4>
 <br />
