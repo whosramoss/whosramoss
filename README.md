@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">Hi mates 😄 I'm Gabriel Ramos</h1>
-<h3 align="center">I am from Espírito Santo, Brazil 🇧🇷. I've been in love with coding, technology and art since ever</h3>
-
-- 💻 I am constantly working and learning in the development of Flutter applications
-- 💬 I’m currently learning NodeJS, Python and TypeScript as well 
-
-
+<h3 align="center">I am from Espírito Santo, Brazil. I've been in love with coding, technology and art since ever</h3><br />
+<br />
+<h3 align="center">
+  <p align="center">💻 I am constantly working and learning in the development of Flutter applications</p>
+  <p align="center">- 💬 I’m currently learning NodeJS, Python and TypeScript as well </p>
+</h3>
+<br />
+<br />
 <p align="center">⚡ Language and tools: </p>
 <p align="center">
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></img>
