@@ -15,12 +15,29 @@ Here are some ideas to get you started:
 <h2 align="center">Hi mates 😄 I'm Gabriel Ramos</h1>
 <h3 align="center">I'm from Espírito Santo, Brazil. I've been in love with coding, technology and art since ever</h3>
 <br />
-<h4 align="center">
+<div>
+  <div align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=whosramos&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />
+  </div>
+  <div align="right">
+    <h4 align="right">
+      <p align="left">💻 I'm constantly working and learning in the development of Flutter applications</p>
+      <p align="left">- 💬 I’m currently learning NodeJS, Python and TypeScript as well </p>
+    </h4>
+    <p align="right">⚡ Language and tools: </p>
+    <p align="left">
+      <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></img>
+      <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></img>
+      <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></img>
+      <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></img>
+    </p>
+  </div>
+</div>
+<!--<h4 align="center">
   <p align="center">💻 I'm constantly working and learning in the development of Flutter applications</p>
   <p align="center">- 💬 I’m currently learning NodeJS, Python and TypeScript as well </p>
 </h4>
 <br />
-
 <p align="center">⚡ Language and tools: </p>
 <p align="center">
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></img>
@@ -30,8 +47,12 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=whosramos&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />
-</p>
-<!--<p align="center">
+</p>-->
+
+
+<!-- SOCIAL -->
+<!--
+<p align="center">
   <a href="">
     <img align="left" alt="Gabriel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
