@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h4 align="center">I'm from Espírito Santo, Brazil. I've been in love with coding, technology and art since ever</h4>
 <p align="center">💻 I'm constantly working and learning in the development of Flutter applications</p>
 <p align="center">💬 I’m currently learning NodeJS, Python and TypeScript as well </p>
-<br/>
+
 <h4 align="center">⚡ Language and tools:</h4>
 <p align="center">
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></img>
@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></img>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></img>
 </p>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=whosramos&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=whosramos&&show_icons=true&title_color=ffffff&icon_color=191919&text_color=191919&bg_color=191919" />
 
 
 
