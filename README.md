@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"> Hi mates 😄 I'm Gabriel Ramos</h1>
-<h4 align="center">I've been in love with coding, technology and art since ever and constantly working and learning in the development of Flutter applications. I'm currently learning NodeJS, Python and TypeScript as well</h4>
-<h4 align="center">💻 Language and tools:</h4>
+<p align="center">I've been in love with coding, technology and art since ever and constantly working and learning in the development of Flutter applications. I'm currently learning NodeJS, Python and TypeScript as well</p>
+<p align="center">💻 Language and tools:</p>
 <p align="center">
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></img>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></img>
