@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 Hi mates 😄 I'm Gabriel Ramos</h1>
-<h3 >I'm from Espírito Santo, Brazil. I've been in love with coding, technology and art since ever</h3>
+<h1> Hi mates 😄 I'm Gabriel Ramos</h1>
+<h3>I'm from Espírito Santo, Brazil. I've been in love with coding, technology and art since ever</h3>
 <h4>
   <p>💻 I'm constantly working and learning in the development of Flutter applications</p>
   <p>💬 I’m currently learning NodeJS, Python and TypeScript as well </p>
