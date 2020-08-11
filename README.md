@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1> Hi mates 😄 I'm Gabriel Ramos</h1>
-<h3>I'm from Espírito Santo, Brazil. I've been in love with coding, technology and art since ever</h3>
-<h4>
+<h4>I'm from Espírito Santo, Brazil. I've been in love with coding, technology and art since ever</h4>
+
   <p>💻 I'm constantly working and learning in the development of Flutter applications</p>
   <p>💬 I’m currently learning NodeJS, Python and TypeScript as well </p>
-</h4>
-<h4>⚡ Language and tools:   
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></img>
+
+<h4>⚡ Language and tools:</h4>
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></img>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></img>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></img>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></img>
-</h4>
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=whosramos&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />
 
 
