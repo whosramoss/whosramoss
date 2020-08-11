@@ -18,16 +18,14 @@ Here are some ideas to get you started:
   <p>💻 I'm constantly working and learning in the development of Flutter applications</p>
   <p>💬 I’m currently learning NodeJS, Python and TypeScript as well </p>
 </h4>
-<p>⚡ Language and tools: </p>
-<p align="center">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></img>
+<h4>⚡ Language and tools:   
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></img>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></img>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></img>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></img>
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=whosramos&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />
-</p>
+</h4>
+<img src="https://github-readme-stats.vercel.app/api?username=whosramos&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />
+
 
 
 <!-- SOCIAL -->
