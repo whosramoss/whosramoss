@@ -12,22 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Hi mates 😄 I'm Gabriel Ramos</h1>
-<h3 align="center">I'm from Espírito Santo, Brazil. I've been in love with coding, technology and art since ever</h3>
-<br />
-<h4 align="center">
-  <p align="center">💻 I'm constantly working and learning in the development of Flutter applications</p>
-  <p align="center">- 💬 I’m currently learning NodeJS, Python and TypeScript as well </p>
+<h2 Hi mates 😄 I'm Gabriel Ramos</h1>
+<h3 >I'm from Espírito Santo, Brazil. I've been in love with coding, technology and art since ever</h3>
+<h4>
+  <p>💻 I'm constantly working and learning in the development of Flutter applications</p>
+  <p>💬 I’m currently learning NodeJS, Python and TypeScript as well </p>
 </h4>
-<br />
-<p align="center">⚡ Language and tools: </p>
-<p align="center">
+<p>⚡ Language and tools: </p>
+<p>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></img>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></img>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></img>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></img>
 </p>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=whosramos&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />
 </p>
 
