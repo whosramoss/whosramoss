@@ -37,6 +37,9 @@ I'm a final year student at FAESA, Vitória, almost getting my Bachelor's Degree
   <a href="https://www.behance.net/whosramoss">
     <img align="center" alt="Gabriel | Behance"src="https://img.icons8.com/bubbles/50/000000/behance.png" />
   </a>
+   <a href="https://www.behance.net/whosramoss">
+    <img align="center" alt="Gabriel | Behance"src="https://img.icons8.com/bubbles/50/000000/javascript.png" />
+  </a>
 </p> 
 
 
