@@ -27,9 +27,6 @@ I'm a final year student at FAESA, Vitória, almost getting my Bachelor's Degree
 
 <!-- SOCIAL -->
 <p align="center">
-  <a href="https://twitter.com/whosramoss">
-    <img align="center" alt="Gabriel | Twitter"  src="https://img.icons8.com/bubbles/50/000000/twitter.png" />
-  </a>
   <a href="https://www.linkedin.com/in/whosramoss/">
     <img align="center" alt="Gabriel | LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" />
   </a>
