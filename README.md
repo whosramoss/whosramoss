@@ -20,7 +20,12 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=whosramos&&show_icons=false&title_color=191919&icon_color=191919&text_color=ffffffbg_color=ffffff&hide=prs,issues" />
 
 <!-- ABOUT -->
-I'm a final year student at FAESA, Vitória, almost getting my Bachelor's Degree in Computer Engineering. I've been in love with coding, technology and art since ever and constantly working and learning in the development of Flutter applications, currently coding Dart and TypeScript as well<br><br/>
+Hi, I'm Computer Engineer and UX Engineering Enthusiast, I've been in love with coding, technology and art since ever and also an optimisitic, curious and well-focused developer.
+
+For almost 2 years I have been collaborating with cross-functional teams to define, design, and create \ update new features on mobile apps, working on bug fixing and improving Ionic and Flutter applications performance.
+
+Continuously discover, evaluate, and implement new technologies to maximize development efficiency of digital product development isn't an easy task, but what's a developer life without tasks like this, right?
+<br><br/>
 
 <!-- LANGUAGES -->
 <img align="center" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></img>&nbsp;<img align="center" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></img>&nbsp;<img align="center" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></img>&nbsp;<img align="center" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></img>&nbsp;<img align="center" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></img>&nbsp;<img align="center" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></img>
