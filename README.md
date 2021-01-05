@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=whosramos&&show_icons=false&title_color=191919&icon_color=191919&text_color=ffffffbg_color=ffffff&hide=prs,issues" />
 
 <!-- ABOUT -->
-Hi, I'm Computer Engineer and UX Engineering Enthusiast, I've been in love with coding, technology and art since ever and also an optimisitic, curious and well-focused developer.
+Hi, I'm Brazilian Computer Engineer and UX Engineering Enthusiast living in Vitória - ES/BRA, I've been in love with coding, technology and art since ever and also an optimisitic, curious and well-focused developer.
 
-For almost 2 years I have been collaborating with cross-functional teams to define, design, and create \ update new features on mobile apps, working on bug fixing and improving Ionic and Flutter applications performance.
+For almost 2 years I have been collaborating with cross-functional teams to define, design, and create\update new features on mobile apps, working on bug fixing and improving Ionic and Flutter applications performance.
 
 Continuously discover, evaluate, and implement new technologies to maximize development efficiency of digital product development isn't an easy task, but what's a developer life without tasks like this, right?
 <br><br/>
