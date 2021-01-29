@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Hi mates 😄 I'm Gabriel Ramos</h1>
 
 <!-- STATS -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=whosramos&&show_icons=false&title_color=191919&icon_color=191919&text_color=ffffffbg_color=ffffff&hide=prs,issues" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=whosramoss&&show_icons=false&title_color=191919&icon_color=191919&text_color=ffffffbg_color=ffffff&hide=prs,issues" />
 
 <!-- ABOUT -->
 Hi, I'm Brazilian porsuing a graduate degree in Software Engineering, Mobile Developer and UX Engineering Enthusiast living in Vitória - ES/BRA, I've been in love with coding, technology and art since ever and also an optimisitic, curious and well-focused developer.
