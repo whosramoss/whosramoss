@@ -32,12 +32,12 @@ Continuously discover, evaluate, and implement new technologies to maximize deve
 
 
 <!-- SOCIAL -->
-<p align="center">
+<div align="center">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/whosramoss)](https://www.linkedin.com/in/whosramoss/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/whosramoss)](https://twitter.com/whosramoss)
 [![Behance Badge](https://img.shields.io/badge/-Behance-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=behance&logoColor=white&link=https://www.behance.net/whosramoss)](https://www.behance.net/whosramoss)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:whosramoss@gmail.com)](mailto:whosramoss@gmail.com)
-</p>
+</div>
 <!-- SOCIAL 
 <p align="center">
   <a href="https://www.linkedin.com/in/whosramoss/">
