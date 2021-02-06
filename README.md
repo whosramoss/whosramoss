@@ -30,7 +30,14 @@ Continuously discover, evaluate, and implement new technologies to maximize deve
 <!-- LANGUAGES -->
 <img align="center" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></img>&nbsp;<img align="center" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></img>&nbsp;<img align="center" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></img>&nbsp;<img align="center" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></img>&nbsp;<img align="center" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></img>&nbsp;<img align="center" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></img>
 
+
 <!-- SOCIAL -->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/whosramoss)](https://www.linkedin.com/in/whosramoss/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/whosramoss)](https://twitter.com/whosramoss)
+[![Behance Badge](https://img.shields.io/badge/-Behance-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=behance&logoColor=white&link=https://www.behance.net/whosramoss)](https://www.behance.net/whosramoss)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:whosramoss@gmail.com)](mailto:whosramoss@gmail.com)
+
+<!-- SOCIAL 
 <p align="center">
   <a href="https://www.linkedin.com/in/whosramoss/">
     <img align="center" alt="Gabriel | LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" />
@@ -38,7 +45,7 @@ Continuously discover, evaluate, and implement new technologies to maximize deve
   <a href="https://www.behance.net/whosramoss">
     <img align="center" alt="Gabriel | Behance"src="https://img.icons8.com/bubbles/50/000000/behance.png" />
   </a>
-</p> 
+</p> -->
 
 
 
