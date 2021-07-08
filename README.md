@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=whosramoss&&show_icons=false&title_color=191919&icon_color=191919&text_color=ffffffbg_color=ffffff&hide=prs,issues" />-->
 
 <!-- ABOUT -->
-<p align="left">I'm Mobile developer focused in motion and interactive experiences based in Brazil. optimisitic, curious passionate about technology art </p >
+<p align="left">I'm Mobile developer focused in motion and interactive experiences based in Brazil. optimisitic, curious passionate about technology</p >
 
 For almost 2 years I have been collaborating with cross-functional teams to define, design, and create\update new features on mobile apps, working on bug fixing and improving Ionic and Flutter applications performance. I enjoy discovering and continually implementing new technologies to maximize digital product development efficiency
 
