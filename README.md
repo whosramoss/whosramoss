@@ -22,7 +22,11 @@ Here are some ideas to get you started:
 <!-- ABOUT -->
 <p align="left">I'm mobile developer focused in motion and interactive experiences based in Brazil. I'm optimisitic, curious and passionate about technology.</p >
 
-For almost 2 years I have been collaborating with cross-functional teams to define, design, and create\update new features on mobile apps, working on bug fixing and improving Ionic and Flutter applications performance. I enjoy discovering and continually implementing new technologies to maximize digital product development efficiency
+Creative developer focused on mobile development and building interactive experiences for bussines
+goals. I enjoy discovering and continually implementing new technologies to maximize product digital
+efficiency and collaborative work believer between users, designers and developers to update new
+features in applications, discovering user needs and raising insights or solutions to simplify the
+complicated and evolve over time.
 
 Bachelor's degree in Computer Engineering by FAESA, porsuing a Graduate degree in Software Engineering by Estacio
 <!-- <p align="right"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/36111698c87a7590d7bb79964a2e17d00effcd30e5340a76f77984ac46c59014/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5950417a657665646f266c61796f75743d636f6d7061637426686964655f7469746c653d74727565267468656d653d6461726b"><img src="https://camo.githubusercontent.com/36111698c87a7590d7bb79964a2e17d00effcd30e5340a76f77984ac46c59014/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5950417a657665646f266c61796f75743d636f6d7061637426686964655f7469746c653d74727565267468656d653d6461726b" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=whosramoss&amp;layout=compact&amp;hide_title=true&amp;theme=dark" style="max-width:100%;">
