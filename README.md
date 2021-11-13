@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=whosramoss&&show_icons=false&title_color=191919&icon_color=191919&text_color=ffffffbg_color=ffffff&hide=prs,issues" />-->
 
 <!-- ABOUT -->
-<p align="left">I'm mobile developer focused in motion and interactive experiences based in Brazil. I'm optimisitic, curious and passionate about technology.</p >
-
 I'm a mobile developer and computer engineer based in Brazil (Espírito Santo) pursuing a bachelor's degree in software engineering.
 
 Love learning new things and discovering new ways of solving problems. Focused on delivering value, I help the development of solutions for users giving the best experiences they can have while using the tools I help to create and grow
