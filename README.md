@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center" font-family: "Times New Roman, Times, serif;"> 
+<h1 align="center" > 
  Hi, I'm Gabriel Ramos
 </h1>
 
 <div>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=whosramoss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <div align="left">
+  <div align="left" style:"font-family: 'Times New Roman'">
    Brazilian developer focused on mobile development and building interactive experiences for bussines goals.
    <br/><br/>
    I enjoy discovering and continually implementing new technologies to maximize product digital efficiency and collaborative work believer between users, designers and
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
  <br>
  <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
  <img align="center" alt="dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+ &nbsp;◻️&nbsp;
  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
  <!--
