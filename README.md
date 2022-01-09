@@ -11,14 +11,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> 
+<h1 align="center" font-family: "Times New Roman, Times, serif;"> 
  Hi, I'm Gabriel Ramos
 </h1>
 
 <div>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=whosramoss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <div align="left">
-   🇧🇷 Brazilian developer focused on mobile development and building interactive experiences for bussines goals.
+   Brazilian developer focused on mobile development and building interactive experiences for bussines goals.
    <br/><br/>
    I enjoy discovering and continually implementing new technologies to maximize product digital efficiency and collaborative work believer between users, designers and
    developers to update new features in applications, discovering user needs and raising insights or solutions to simplify the complicated and evolve over time.
@@ -54,8 +54,7 @@ Here are some ideas to get you started:
  </a> 
 </div>
 
-##
-
+<!--
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=whosramoss&&show_icons=false&title_color=191919&icon_color=191919&text_color=ffffffbg_color=ffffff&hide=prs,issues" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whosramoss&layout=compact&langs_count=7&theme=dracula"/>
 <p align="left">
