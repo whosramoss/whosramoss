@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- TITLE -->
-<h1 align="left"> Hi, I'm Gabriel Ramos</h1>
+<h1 align="center"> Hi, I'm Gabriel Ramos</h1>
 
 <!-- STATS -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=whosramoss&&show_icons=false&title_color=191919&icon_color=191919&text_color=ffffffbg_color=ffffff&hide=prs,issues" />-->
@@ -24,12 +24,11 @@ I enjoy discovering and continually implementing new technologies to maximize pr
 
 
  <div>
-  <a href="https://github.com/toshiossada">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whosramoss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    Brazilian developer focused on mobile development and building interactive experiences for bussines goals.
+    <div>Brazilian developer focused on mobile development and building interactive experiences for bussines goals.
 
-I enjoy discovering and continually implementing new technologies to maximize product digital efficiency and collaborative work believer between users, designers and developers to update new features in applications, discovering user needs and raising insights or solutions to simplify the complicated and evolve over time.
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whosramoss&layout=compact&langs_count=7&theme=dracula"/>
+I enjoy discovering and continually implementing new technologies to maximize product digital efficiency and collaborative work believer between users, designers and developers to update new features in applications, discovering user needs and raising insights or solutions to simplify the complicated and evolve over time.</div>
+  
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
