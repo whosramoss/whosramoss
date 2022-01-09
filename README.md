@@ -14,18 +14,13 @@ Here are some ideas to get you started:
 <!-- TITLE -->
 <h1 align="center"> Hi, I'm Gabriel Ramos</h1>
 
-<!-- STATS -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=whosramoss&&show_icons=false&title_color=191919&icon_color=191919&text_color=ffffffbg_color=ffffff&hide=prs,issues" />-->
 
-<!-- ABOUT 
-Brazilian developer focused on mobile development and building interactive experiences for bussines goals.
-
-I enjoy discovering and continually implementing new technologies to maximize product digital efficiency and collaborative work believer between users, designers and developers to update new features in applications, discovering user needs and raising insights or solutions to simplify the complicated and evolve over time.-->
 
 
  <div>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=whosramoss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <div align="left">Brazilian developer focused on mobile development and building interactive experiences for bussines goals.<br/>
+    <div align="left">Brazilian developer focused on mobile development and building interactive experiences for bussines goals.<br/><br/>
 
 I enjoy discovering and continually implementing new technologies to maximize product digital efficiency and collaborative work believer between users, designers and developers to update new features in applications, discovering user needs and raising insights or solutions to simplify the complicated and evolve over time.</div>
   
@@ -36,11 +31,8 @@ I enjoy discovering and continually implementing new technologies to maximize pr
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
-  
-  
-  ##
  
-<div> 
+<div align="center"> 
   <a href="https://twitter.com/whosramoss" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/whosramoss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:whosramoss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
