@@ -17,14 +17,6 @@ Here are some ideas to get you started:
 
 <div>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=whosramoss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <div align="left">
-   <b>
-    Brazilian developer focused on mobile development and building interactive experiences for bussines goals.
-    <br/><br/>
-    I enjoy discovering and continually implementing new technologies to maximize product digital efficiency and collaborative work believer between users, designers and
-    developers to update new features in applications, discovering user needs and raising insights or solutions to simplify the complicated and evolve over time.
-   </b>
- </div>
 </div>
 
 <div style="display: inline_block" align="center">
