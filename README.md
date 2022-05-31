@@ -37,6 +37,7 @@ Here are some ideas to get you started:
  
  ##
  
+<!--
 <div align="center"> 
   <a href="https://twitter.com/whosramoss" target="_blank">
    <img src="https://img.shields.io/badge/Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
@@ -48,6 +49,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </a> 
 </div>
+-->
 
 <!--
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=whosramoss&&show_icons=false&title_color=191919&icon_color=191919&text_color=ffffffbg_color=ffffff&hide=prs,issues" />
