@@ -4,7 +4,6 @@ I'm a mobile software engineer at [Sami](https://github.com/oisamitech)
 - 🔭 I’m currently working with Dart and Flutter 💙 
 - ☕ I’m learning Go and Firebase
 - 🧑‍💻 I’m looking to collaborate on open source projects
-- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Love Stencil Art
 
 
