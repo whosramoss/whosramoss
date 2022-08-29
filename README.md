@@ -1,19 +1,16 @@
-<!--
-Here are some ideas to get you started:
+Hi there 👋
+I'm a mobile software engineer at [Sami](https://github.com/oisamitech)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working with Dart and Flutter 💙 
+- ☕ I’m learning Go and Firebase
+- 🧑‍💻 I’m looking to collaborate on open source projects
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: Love Stencil Art
 
-<h1 align="center" > 
+
+<!-- <h1 align="center" > 
  Hi, I'm Gabriel Ramos
-</h1>
+</h1> -->
 
 
 <div align="center">
@@ -26,18 +23,13 @@ Here are some ideas to get you started:
  <br>
  <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
  <img align="center" alt="dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
- &nbsp;◻️&nbsp;
- <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
- <!--
-  <img align="center" alt="android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="center" alt="kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
- -->
+ <img align="center" alt="go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+ <img align="center" alt="firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
 </div>
  
  ##
  
-<!--
+
 <div align="center"> 
   <a href="https://twitter.com/whosramoss" target="_blank">
    <img src="https://img.shields.io/badge/Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
@@ -49,7 +41,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </a> 
 </div>
--->
+
 
 <!--
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=whosramoss&&show_icons=false&title_color=191919&icon_color=191919&text_color=ffffffbg_color=ffffff&hide=prs,issues" />
