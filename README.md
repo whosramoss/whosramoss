@@ -2,9 +2,10 @@ Hi there 👋
 I'm a mobile software engineer at [Sami](https://github.com/oisamitech)
 
 - 🔭 I’m currently working with Dart and Flutter 💙 
-- ☕ I’m learning Go, Firebase and Google Cloud
+- ☕ I’m learning Golang , Firebase and Google Cloud
 - 🧑‍💻 I’m looking to collaborate on open source projects
-- ⚡ Fun fact: I love playing drums
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: drummer in my free time
 
 <div align="center">
   <a href="https://github.com/whosramoss">
