@@ -5,6 +5,7 @@ I'm a mobile software engineer at [Sami](https://github.com/oisamitech)
 - ☕ I’m learning Golang , Firebase and Google Cloud
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 😄 Pronouns: He/Him
+- 🌏 Espírito Santo, Brazil
 - ⚡ Fun fact: drummer in my free time
 
 <div align="center">
