@@ -35,7 +35,7 @@ I'm a mobile software engineer at [Sami](https://github.com/oisamitech)
  <a href="https://www.linkedin.com/in/whosramoss" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </a> 
- <a href="https://g.dev/whosramoss" target="_blank">
+ <a href="https://g.dev/whosramos" target="_blank">
   <img src="https://img.shields.io/badge/Google-%23333?style=for-the-badge&logo=google&logoColor=white" target="_blank">
  </a> 
 </div>
