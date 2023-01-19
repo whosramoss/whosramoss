@@ -7,13 +7,13 @@ I'm a mobile software engineer at [Sami](https://github.com/oisamitech)
 - 😄 Pronouns: He/Him
 - 🌏 Espírito Santo, Brazil
 - ⚡ Fun fact: drummer in my free time
-
+<!--
 <div align="center">
   <a href="https://github.com/whosramoss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whosramoss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whosramoss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- 
+ -->
 <div style="display: inline_block" align="center">
  <br>
  <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
