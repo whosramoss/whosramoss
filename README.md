@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://twitter.com/whosramoss">Twitter</a> •
-  <a href="https://www.linkedin.com/in/whosramos">Linkedin</a> •
+  <a href="https://www.linkedin.com/in/whosramoss">Linkedin</a> •
   <a href="https://g.dev/whosramoss">Google badges</a>
 </p>
 
