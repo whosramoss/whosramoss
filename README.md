@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi, I'm Gabriel</h3>
 
 <p align="center">
-  <a href="https://twitter.com/whosramoss">Twitter</a> •
+  <a href="https://codepen.io/whosramoss">Codepen</a> •
   <a href="https://www.linkedin.com/in/whosramoss">Linkedin</a> •
   <a href="https://g.dev/whosramoss">Google badges</a>
 </p>
