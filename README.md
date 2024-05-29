@@ -19,8 +19,7 @@
 
 I'm a Mobile Software Engineer at [Sami](https://www.samisaude.com.br/) working on front-end experiences with [Flutter](https://flutter.dev/) and also working on my own projects in [NextJS](https://nextjs.org/) using **TypeScript**.
 
-Currently learning [Firebase](https://firebase.google.com/), [Google Cloud](https://cloud.google.com/), **Test-Driven-Development** and product analysis to improve integration and contribute end-to-end to software development .
-
+Currently learning [Threejs](https://threejs.org/), [TypeScript](https://www.typescriptlang.org/), [Framer Motion](https://framer.com/motion) and product analysis to improve integration and contribute end-to-end to software development .
 
 
 <!--
