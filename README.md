@@ -20,8 +20,8 @@
 Brazilian software engineer focused on front-end development and motion experiences for business and entertainment goals. A creative mind with a keen eye for design brings user interfaces to life through innovative interactions and eye-catching animations. I'm currently a Mobile Software Engineer at [Sami](https://www.samisaude.com.br/) working with [Flutter](https://flutter.dev/), also working on my own projects in [NextJS](https://nextjs.org/) using [TypeScript](https://www.typescriptlang.org/) and in parallel learning [Threejs](https://threejs.org/), [Framer Motion](https://framer.com/motion) and product analysis to improve integration and contribute end-to-end to software development .
 
 #### Current Projects 
-- [MELODARRAY](melodarray.com)
-- [RGB.CAPIXABA](rgbcapixaba.com)
-- [LABS](labs.whosramoss.com)
-- [GARDEN](garden.whosramoss.com)
+- [MELODARRAY](https://melodarray.com)
+- [RGB.CAPIXABA](https://rgbcapixaba.com)
+- [LABS](https://labs.whosramoss.com)
+- [GARDEN](https://garden.whosramoss.com)
 
