@@ -5,6 +5,8 @@
   <a href="https://codepen.io/whosramoss">Codepen</a> •
   <a href="https://www.linkedin.com/in/whosramoss">Linkedin</a> •
   <a href="https://g.dev/whosramoss">Google badges</a>
+</p> •
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/whosramoss">Microsoft Learn badges</a>
 </p>
 
 <div style="display: inline_block" align="center">
