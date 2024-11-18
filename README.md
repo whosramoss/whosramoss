@@ -26,5 +26,5 @@ Brazilian software engineer focused on front-end development and motion experien
 - [LABS](https://labs.whosramoss.com)
 - [GARDEN](https://garden.whosramoss.com)
 - [RUN](https://run.whosramoss.com)
-- [SONYA RAMOS](https://sonyaramos.art)
+- [SONYA RAMOS ART](https://sonyaramos.art)
 - [COM O ABRAÇO DE DIONÍSIO](http://comoabracodedionisio.com/)
