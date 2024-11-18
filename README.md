@@ -5,7 +5,7 @@
   <a href="https://codepen.io/whosramoss">Codepen</a> •
   <a href="https://www.linkedin.com/in/whosramoss">Linkedin</a> •
   <a href="https://g.dev/whosramoss">Google badges</a> •
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/whosramoss">Microsoft Learn badges</a>
+  <a href="https://learn.microsoft.com/en-us/users/whosramoss">Microsoft Learn badges</a>
 </p>
 
 <div style="display: inline_block" align="center">
@@ -20,11 +20,11 @@
 ---
 Brazilian software engineer focused on front-end development and motion experiences for business and entertainment goals. A creative mind with a keen eye for design brings user interfaces to life through innovative interactions and eye-catching animations. I'm currently a Mobile Software Engineer at [Sami](https://www.samisaude.com.br/) working with [Flutter](https://flutter.dev/), also working on my own projects in [NextJS](https://nextjs.org/) using [TypeScript](https://www.typescriptlang.org/) and in parallel learning [Threejs](https://threejs.org/), [Framer Motion](https://framer.com/motion) and product analysis to improve integration and contribute end-to-end to software development .
 
-#### Current Projects 
+#### My Projects 
 - [MELODARRAY](https://melodarray.com)
 - [RGB.CAPIXABA](https://rgbcapixaba.com)
 - [LABS](https://labs.whosramoss.com)
 - [GARDEN](https://garden.whosramoss.com)
 - [RUN](https://run.whosramoss.com)
 - [SONYA RAMOS](https://sonyaramos.art)
-
+- [COM O ABRAÇO DE DIONÍSIO](http://comoabracodedionisio.com/)
