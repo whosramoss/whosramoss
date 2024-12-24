@@ -31,11 +31,11 @@
 &nbsp;
 
 #### Skills
-- **Languages**: [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/), [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)/[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS), [OpenGL](https://www.opengl.org/), [SQL](https://www.w3schools.com/sql/), [Dart](https://dart.dev/)
-- **Frontend**: [Next.js](https://nextjs.org/), [React.js](https://react.dev/), [Three.js](https://threejs.org/), [Tailwind](https://tailwindcss.com/), [Flutter](https://flutter.dev/)
-- **Backend**: [Nest.js](https://nestjs.com/), [PostgreSQL](https://www.postgresql.org/), [Firebase](https://firebase.google.com/?hl=pt-br), [Prisma](https://www.prisma.io/)
-- **APIs**: [RESTful](https://aws.amazon.com/pt/what-is/restful-api/), [GraphQL](https://graphql.org/)
-- **Others**: [Git](https://git-scm.com/), [Github](https://github.com/)
+- **Languages**: [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) • [TypeScript](https://www.typescriptlang.org/) • [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)/[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) • [OpenGL](https://www.opengl.org/) • [SQL](https://www.w3schools.com/sql/) • [Dart](https://dart.dev/)
+- **Frontend**: [Next.js](https://nextjs.org/) • [React.js](https://react.dev/) • [Three.js](https://threejs.org/) • [Tailwind](https://tailwindcss.com/) • [Flutter](https://flutter.dev/)
+- **Backend**: [Nest.js](https://nestjs.com/) • [PostgreSQL](https://www.postgresql.org/) • [Firebase](https://firebase.google.com/?hl=pt-br) • [Prisma](https://www.prisma.io/)
+- **APIs**: [RESTful](https://aws.amazon.com/pt/what-is/restful-api/) • [GraphQL](https://graphql.org/)
+- **Others**: [Git](https://git-scm.com/) • [Github](https://github.com/)
 
 #### Projects 
 - [MELODARRAY](https://melodarray.com)
