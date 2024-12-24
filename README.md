@@ -18,7 +18,7 @@
 </div>
  
 ---
-Brazilian software engineer focused on front-end development and motion experiences for business and entertainment goals. A creative mind with a keen eye for design brings user interfaces to life through innovative interactions and eye-catching animations. I'm working on my own projects in [NextJS](https://nextjs.org/) using [TypeScript](https://www.typescriptlang.org/) and in parallel learning [Threejs](https://threejs.org/), [Framer Motion](https://framer.com/motion) and product analysis to improve integration and contribute end-to-end to software development .
+Brazilian software engineer focused on front-end development and motion experiences for business and entertainment goals. A creative mind with a keen eye for design brings user interfaces to life through innovative interactions and eye-catching animations.
 
 #### My Projects 
 - [MELODARRAY](https://melodarray.com)
