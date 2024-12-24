@@ -16,24 +16,13 @@
   <a href="https://learn.microsoft.com/en-us/users/whosramoss">Microsoft Learn badges</a>
 </p>
 
-<!-- 
-<div style="display: inline_block" align="center">
-  <img align="center" alt="nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="color:'#fffff'">
-  <img align="center" alt="opengl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-plain.svg" style="color:'#fffff'"/>
-  <img align="center" alt="tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="graphql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-</div>
- -->
 &nbsp;
 
 #### Skills
-- **Languages**: [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) • [TypeScript](https://www.typescriptlang.org/) • [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)/[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) • [OpenGL](https://www.opengl.org/) • [SQL](https://www.w3schools.com/sql/) • [Dart](https://dart.dev/)
-- **Frontend**: [Next.js](https://nextjs.org/) • [React.js](https://react.dev/) • [Three.js](https://threejs.org/) • [Tailwind](https://tailwindcss.com/) • [Flutter](https://flutter.dev/)
+- **Languages**: [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) • [TypeScript](https://www.typescriptlang.org/) • [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) • [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) • [OpenGL](https://www.opengl.org/) • [SQL](https://www.w3schools.com/sql/)
+- **Frontend**: [Next.js](https://nextjs.org/) • [React.js](https://react.dev/) • [Three.js](https://threejs.org/) • [Tailwind](https://tailwindcss.com/)
 - **Backend**: [Nest.js](https://nestjs.com/) • [PostgreSQL](https://www.postgresql.org/) • [Firebase](https://firebase.google.com/?hl=pt-br) • [Prisma](https://www.prisma.io/)
+- **Mobile**: [Flutter](https://flutter.dev/) • [Dart](https://dart.dev/)
 - **APIs**: [RESTful](https://aws.amazon.com/pt/what-is/restful-api/) • [GraphQL](https://graphql.org/)
 - **Others**: [Git](https://git-scm.com/) • [Github](https://github.com/)
 
