@@ -24,7 +24,6 @@
 - **Backend**: [Nest.js](https://nestjs.com/) • [PostgreSQL](https://www.postgresql.org/) • [Firebase](https://firebase.google.com/?hl=pt-br) • [Prisma](https://www.prisma.io/)
 - **Mobile**: [Flutter](https://flutter.dev/) • [Dart](https://dart.dev/)
 - **APIs**: [RESTful](https://aws.amazon.com/pt/what-is/restful-api/) • [GraphQL](https://graphql.org/)
-- **Others**: [Git](https://git-scm.com/) • [Github](https://github.com/)
 
 #### Projects 
 - [MELODARRAY](https://melodarray.com)
