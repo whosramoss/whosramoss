@@ -7,8 +7,8 @@
   </strong>
 </h3>
 <p align="center">
-  Brazilian software engineer focused on front-end development and motion experiences for business and entertainment goals. A creative mind with a keen eye for design brings user interfaces to life through innovative interactions and eye-catching animations.
-</p>
+    Brazilian software engineer specializing in front-end development and motion design,<br/>focusing on enhancing business and digital experiences.
+</p> 
 <p align="center">
   <a href="https://codepen.io/whosramoss">Codepen</a> •
   <a href="https://www.linkedin.com/in/whosramoss">Linkedin</a> •
