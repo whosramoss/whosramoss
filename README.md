@@ -1,9 +1,9 @@
 <p align="center">
-    <a href="https://www.davidobodo.com/" target="_blank"><img src="photo.png" /></a>
+    <a href="https://whosramoss.com/" target="_blank"><img src="photo.png" /></a>
 </p>
 <h3 align='center'>
   <strong>
-    <a href="https://www.davidobodo.com/" target="_blank">whosramoss.com</a>
+    <a href="https://whosramoss.com/" target="_blank">whosramoss.com</a>
   </strong>
 </h3>
 <p align="center">
@@ -19,7 +19,7 @@
 &nbsp;
 
 #### Skills
-- **Languages**: [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) • [TypeScript](https://www.typescriptlang.org/) • [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) • [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) • [OpenGL](https://www.opengl.org/) • [SQL](https://www.w3schools.com/sql/)
+- **Languages**: [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) • [TypeScript](https://www.typescriptlang.org/) • [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) • [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) • [WebOgl](https://www.khronos.org/webgl/) • [SQL](https://www.w3schools.com/sql/)
 - **Frontend**: [Next.js](https://nextjs.org/) • [React.js](https://react.dev/) • [Three.js](https://threejs.org/) • [Tailwind](https://tailwindcss.com/)
 - **Backend**: [Nest.js](https://nestjs.com/) • [PostgreSQL](https://www.postgresql.org/) • [Firebase](https://firebase.google.com/?hl=pt-br) • [Prisma](https://www.prisma.io/)
 - **Mobile**: [Flutter](https://flutter.dev/) • [Dart](https://dart.dev/)
