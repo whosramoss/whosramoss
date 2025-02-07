@@ -30,6 +30,7 @@
 #### Projects 
 - [MELODARRAY](https://melodarray.com)
 - [RGB.CAPIXABA](https://rgbcapixaba.com)
+- [WAUDIO](https://waudio.whosramoss.com)
 - [LABS](https://labs.whosramoss.com)
 - [GARDEN](https://garden.whosramoss.com)
 - [RUN](https://run.whosramoss.com)
