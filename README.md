@@ -1,9 +1,16 @@
+<!-- 
 <p align="center">
     <a href="https://whosramoss.com/" target="_blank"><img src="photo.png" /></a>
 </p>
 <h3 align='center'>
   <strong>
     <a href="https://whosramoss.com/" target="_blank">whosramoss.com</a>
+  </strong>
+</h3> 
+-->
+<h3 align='center'>
+  <strong>
+    Hello, I'm Gabriel Ramos 
   </strong>
 </h3>
 <p align="center">
