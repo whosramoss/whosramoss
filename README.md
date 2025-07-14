@@ -22,7 +22,8 @@
   <a href="https://codepen.io/whosramoss">Codepen</a> •
   <a href="http://lattes.cnpq.br/7001708892354871">Lattes</a> •
   <a href="https://g.dev/whosramoss">Google badges</a> •
-  <a href="https://learn.microsoft.com/en-us/users/whosramoss">Microsoft Learn badges</a>
+  <a href="https://learn.microsoft.com/en-us/users/whosramoss">Microsoft Learn badges</a> •
+  <a href="https://www.credly.com/users/whosramoss/badges#credly">Credly badges</a>
 </p>
 <p align="center">
   • • •
