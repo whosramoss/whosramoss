@@ -37,9 +37,9 @@ See my portfolio and projects at: [whosramoss.com](https://www.whosramoss.com)
 I'm always looking to learn, share, and grow through meaningful projects and collaborations. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/whosramoss), visit my [website](https://whosramoss.com), check out my [Codepen](https://codepen.io/whosramoss), or see my [Lattes](http://lattes.cnpq.br/7001708892354871) profile if you'd like to exchange ideas or explore opportunities to work together.
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=whosramoss&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="whosramoss's Stats" style="width: 350px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whosramoss&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="whosramoss's Stats" style="width: 320px;" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whosramoss&theme=transparent&hide_border=true" alt="whosramoss's Streak" style="width: 360px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whosramoss&theme=transparent&hide_border=true" alt="whosramoss's Streak" style="width: 320px;" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whosramoss&theme=transparent&show_icons=true&hide_border=true&layout=compact" alt="whosramoss's Top Languages" style="width: 280px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whosramoss&theme=transparent&show_icons=true&hide_border=true&layout=compact" alt="whosramoss's Top Languages" style="width: 240px;" />
 </div>
