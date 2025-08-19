@@ -2,7 +2,7 @@
 
 Front-end Software Engineer specializing in building accessible, responsive, and interactive web applications. Skilled in collaborating with design and product teams, working with design systems. Focused on delivering visually appealing and functional UI solutions while fostering a collaborative and transparent team environment.
 
-See my portfolio and projects at: [whosramoss.com](https://www.whosramoss.com)
+Check my portfolio at: [whosramoss.com](https://www.whosramoss.com) or my [LinkedIn](https://www.linkedin.com/in/whosramoss) Profile
 
 ### 🧰 Engineering Experience
 
