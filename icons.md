@@ -45,6 +45,8 @@
 <div style="display: inline_block" align="left">
 <img align="center" alt="jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"/>
 <img align="center" alt="vitest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg"/>
+<img align="center" alt="vitest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg"/>
+
 </div>
 
 ---
