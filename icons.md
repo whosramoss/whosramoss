@@ -24,7 +24,7 @@
   <img align="center" alt="materialui" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"/>
   <img align="center" alt="antdesign" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg"/>
   <img align="center" alt="storybook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg"/>
-  <img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ sass/sass-original.svg"/>
+  <img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
 </div>
 
 ---
