@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://whosramoss.com/" target="_blank"><img src="photo.png" /></a>
+    <a href="https://whosramoss.com/" target="_blank"><img src="whosramoss.png" /></a>
 </p>
 
 <h3 align='center'>
