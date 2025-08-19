@@ -5,3 +5,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whosramoss&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="whosramoss's Top Languages" style="width: 230px;" />
 </div>
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=whosramoss%2Fgithub-visitors-badge&countColor=%23263759)](https://visitorbadge.io/status?path=whosramoss%2Fgithub-visitors-badge)
+
+![GitHub followers](https://img.shields.io/github/followers/whosramoss?style=social)
