@@ -32,6 +32,7 @@ Check my portfolio at: [whosramoss.com](https://www.whosramoss.com) or my [Linke
 - [Google Cloud Skills Boost Badges](https://www.cloudskillsboost.google/public_profiles/429dcf5f-e6f6-4d31-adc1-e4903f5c2be3/) – Hands-on labs and challenges on Google Cloud.
 - [Microsoft Learn Badges](https://learn.microsoft.com/en-us/users/whosramoss) – Learning achievements on Microsoft technologies.
 - [Credly Badges](https://www.credly.com/users/whosramoss/badges#credly) – Verified badges from IBM and AWS.
+- [Alura Courses](https://cursos.alura.com.br/user/whosramoss) - Brazilian tech education platform certifications and completed courses.
 
 ### 📫 Let's connect
 
