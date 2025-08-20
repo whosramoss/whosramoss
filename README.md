@@ -24,7 +24,8 @@ Check my portfolio at: [whosramoss.com](https://www.whosramoss.com) or my [Linke
 
 - **Kubernetes & Helm** – Containers, orchestration, and creating Helm charts for application deployment.
 - **Event-driven Architecture & Microservices** – Scalable, event-driven architecture for modern systems.
-- **Artificial Intelligence & Machine Learning** – Exploring AI concepts, models, and practical applications in web development.
+- **LLMs & Machine Learning** – Exploring AI concepts, models, and practical applications in web development.
+- **Backend Cases** – Studying backend frameworks and modern development practices.  
 
 ### 🏆 Badges & Certifications
 
