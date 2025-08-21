@@ -22,7 +22,7 @@ Check my portfolio at: [whosramoss.com](https://www.whosramoss.com) or my [Linke
 
 ### 📚 Studying
 
-- **Kubernetes & Helm** – Containers, orchestration, and creating Helm charts for application deployment.
+- **AWS & GCP** – Containers and orchestration for scalable cloud application deployment.
 - **Event-driven Architecture & Microservices** – Scalable, event-driven architecture for modern systems.
 - **LLMs & Machine Learning** – Exploring AI concepts, models, and practical applications in web development.
 - **Backend Cases** – Studying backend frameworks and modern development practices.  
@@ -34,6 +34,7 @@ Check my portfolio at: [whosramoss.com](https://www.whosramoss.com) or my [Linke
 - [Microsoft Learn Badges](https://learn.microsoft.com/en-us/users/whosramoss) – Learning achievements on Microsoft technologies.
 - [Credly Badges](https://www.credly.com/users/whosramoss/badges#credly) – Verified badges from IBM and AWS.
 - [Alura Courses](https://cursos.alura.com.br/user/whosramoss) - Brazilian tech education platform certifications and completed courses.
+- [HackerRank Certifications](https://www.hackerrank.com/profile/whosramoss) – Coding challenges and algorithm problem-solving achievements.  
 
 ### 📫 Let's connect
 
