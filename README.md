@@ -30,7 +30,7 @@ Check my portfolio at [whosramoss.com](https://www.whosramoss.com) or my [linked
 
 ### 🏆 Badges & Certifications
 
-- [Google Developer Badges](https://g.dev/whosramoss) – Achievements from Google Developer programs.
+- [Google Developer Badges](https://me.developers.google.com/u/me) – Achievements from Google Developer programs.
 - [Google Cloud Skills Boost Badges](https://www.cloudskillsboost.google/public_profiles/429dcf5f-e6f6-4d31-adc1-e4903f5c2be3/) – Hands-on labs and challenges on Google Cloud.
 - [Microsoft Learn Badges](https://learn.microsoft.com/en-us/users/whosramoss) – Learning achievements on Microsoft technologies.
 - [Credly Badges](https://www.credly.com/users/whosramoss/badges#credly) – Verified badges from IBM and AWS.
